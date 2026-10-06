@@ -4,3 +4,5 @@ Versión: 1.2
 
 Primero modificacion desde la rama de desarrollo
 Segunda modificacion desde la rama de desarrollo
+
+Modificación realizada desde GitHub
