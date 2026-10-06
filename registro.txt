@@ -1,4 +1,4 @@
 Actividad de Git
-Autor: Alexis
+Autor: Daniel 
 Versión: 1.2
 
