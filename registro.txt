@@ -1,3 +1,4 @@
 Actividad de Git
-Autor: Kevin 
+Autor: Alexis
 Versión: 2.1
+
