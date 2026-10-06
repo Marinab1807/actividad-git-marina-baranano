@@ -1,0 +1,3 @@
+Actividad de Git
+Autor: Marina Barañano
+Versión: 1
